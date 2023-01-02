@@ -1,0 +1,18 @@
+
+body {
+        background-image: url("images/me1.jpg");
+    }
+
+h1{
+    font-size: 70px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.span{
+    font-size: 70px;
+    background: -webkit-linear-gradient(rgb(181, 243, 81), rgb(223, 0, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
